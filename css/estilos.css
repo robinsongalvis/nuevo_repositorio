@@ -1,0 +1,31 @@
+.section-search input {
+	padding: 5px !important;
+	font-size: 20px !important;
+	width: 90% !important;
+	height: 45% !important; 
+	border: #00acee 2px solid !important;
+	border-radius: 50px 50px 50px 50px !important;
+	    -webkit-box-shadow: 0 10px 6px -6px #777 !important;
+       -moz-box-shadow: 0 10px 6px -6px #777 !important;
+            box-shadow: 0 10px 6px -6px #777 !important; 
+}
+.teal-text {
+    color: #009688 !important;
+    padding: 15px;
+}	
+
+.barra{
+	background:#00acee !important;
+}
+.color{
+	background:#00acee !important;
+}
+.letra{
+	font-size: 18px;
+}
+.buscar{
+	color: #00acee;
+}
+.teal.darken-2 {
+    background-color: #00acee !important;
+    }
