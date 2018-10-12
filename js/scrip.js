@@ -1,4 +1,12 @@
-	
+	//tiempo
+
+  document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.datepicker');
+    var instances = M.Datepicker.init(elems, options);
+  });
+
+ 
+       
 	// Sidenav
 	const sidenav = document.querySelector('.sidenav');
 	M.Sidenav.init(sidenav,{});
@@ -30,3 +38,7 @@
 	// scroll
 	const ss = document.querySelectorAll('.scrollspy');
 	M.ScrollSpy.init(ss, {})
+
+
+
+
